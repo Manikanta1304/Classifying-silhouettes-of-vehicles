@@ -1,6 +1,4 @@
-# Unsupervised-Learning
-
-Project: Classifying silhouettes of vehicles
+# Project: Classifying silhouettes of vehicles using Unsupervised-Learning Techniques
 
 Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification.
 
